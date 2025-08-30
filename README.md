@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salaam! (Hi there!) 👋
 
 <!--
 **salimhabeshawi/salimhabeshawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
