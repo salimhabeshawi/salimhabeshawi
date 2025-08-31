@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me  
-I’m currently a **Backend Engineering Learner** in the ALX SE Program. I am also attending my study for a Software Engineering degree at Addis Ababa Science and Technology University.
+I’m currently a **Backend Engineering Learner** in the **ALX SE Program**. I am also attending my study for a **Software Engineering** degree at A**ddis Ababa Science and Technology University**.
 I started my software engineering journey because I wanted to **build systems that people can actually use**.  
 
 💡 I’m passionate about:
