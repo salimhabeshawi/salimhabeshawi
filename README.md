@@ -12,7 +12,7 @@ I started my software engineering journey because I wanted to **build systems th
 
 💡 I’m passionate about:
 - **Backend Engineering** – Designing robust and scalable systems.  
-- **Cutting-edge technologies** – Django, Django Rest Framework (DRF), PostgreSQL, React, Next.js, .  
+- **Cutting-edge technologies** – Django, Django Rest Framework (DRF), PostgreSQL, React, Next.js.  
 - **Team Leadership** – My goal is to become a **Senior Backend Engineer** who can manage, mentor, and lead high-performing teams.  
 
 ---
