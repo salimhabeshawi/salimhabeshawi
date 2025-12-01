@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<h1 align="center">Salaam (Hi there) 👋, I'm Salim Ahmed</h1>
+<h1 align="center">Salaam (Hi there) 👋, I'm Salim Ahmed,</h1>
 <h2 align="center">a no-coffee, no-problem developer.</h2>
 <h3 align="center">Backend Engineer | ALX SE Program Learner | Passionate about building scalable systems</h3>
 
