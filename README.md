@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
-<h1 align="center">Salaam (Hi there) 👋, I'm Salim Ahmed,</h1>
-<h2 align="center">a no-coffee, no-problem developer.</h2>
+<h1 align="center">👋 Salaam (Hi there), I'm Salim Ahmed,</h1>
+<h3 align="center">a no-coffee, no-problem developer.</h3>
+<br />
 <h3 align="center">Backend Engineer | ALX SE Program Learner | Passionate about building scalable systems</h3>
 
 ---
@@ -62,9 +63,10 @@ Here are a few highlights from my work:
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salimhabeshawi&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salimhabeshawi&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salimhabeshawi&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
+---
 
 <p align="center">
   <!-- Languages -->
@@ -93,8 +95,8 @@ Here are a few highlights from my work:
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/salimhabeshawi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:salimhabeshawi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/salimhabeshawi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/salimhabeshawi"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
   <a href="https://t.me/salimhabeshawi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
