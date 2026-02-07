@@ -8,13 +8,13 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me  
-I’m currently a **Backend Engineering Learner** in the **ALX SE Program**. I am also attending my study for a **Software Engineering** degree at **Addis Ababa Science and Technology University**.
+I’m currently attending my study for a **Software Engineering** degree at **Addis Ababa Science and Technology University**. I graduated from the **ALX SE Back-end Program**.
 I started my software engineering journey because I wanted to **build systems that people can actually use**.  
 
 💡 I’m passionate about:
 - **Backend Engineering** – Designing robust and scalable systems.  
-- **Cutting-edge technologies** – Django, Django Rest Framework (DRF), PostgreSQL, React, Next.js.  
-- **Team Leadership** – My goal is to become a **Senior Backend Engineer** who can manage, mentor, and lead high-performing teams.  
+- **Cutting-edge technologies** – Django, Django Rest Framework (DRF), FastAPI, PostgreSQL, React, Next.js.
+- **Team Leadership** – My goal is to become a **Senior Backend Engineer** who can manage, mentor, and lead high-performing teams.
 
 ---
 
