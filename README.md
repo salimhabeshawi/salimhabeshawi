@@ -49,14 +49,14 @@ I started my software engineering journey because I wanted to **build systems th
 
 Here are a few highlights from my work:
 
-- 🔗 [**Mni Projects**](https://github.com/salimhabeshawi/reclaimit-backend)  
+- 🔗 [**ReclaimIt**](https://github.com/salimhabeshawi/reclaimit-backend)  
    *A lost item reclaiming site API built using DRF (Django Rest Framework)*  
-
-- 🔗 [**Mni Projects**](https://github.com/salimhabeshawi/Mini-Projects.git)  
-   *Some mini-projects including an Airline Reservation System (C++ & File Handling) Console-based airline booking system with seat management, search, and cancellation.*  
 
 - 🔗 [**Expense Tracker (PyQt5 + SQLite)**](https://github.com/salimhabeshawi/SHANZ-Expenses.git)  
    *A simple and modern expense tracking desktop app with elegant design and Database.*  
+
+- 🔗 [**Mni Projects**](https://github.com/salimhabeshawi/Mini-Projects.git)  
+   *Some mini-projects including an Airline Reservation System (C++ & File Handling) Console-based airline booking system with seat management, search, and cancellation.*  
 
 ➡️ Check out more in my [repositories](https://github.com/salimhabeshawi?tab=repositories).  
 
