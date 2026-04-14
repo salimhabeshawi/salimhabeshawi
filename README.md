@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Salim Ahmed,</h1>
 <h3 align="center">a no-coffee, no-problem developer.</h3>
 <br />
-<h3 align="center">Backend Engineer | ALX SE BE Program Graduate | Passionate about building scalable systems</h3>
+<h3 align="center">Backend Engineer | ALX SE BE Program Graduate | Co-Founder at <a href="https://isnaad.tech">Isnaad Tech</a></h3>
 
 ---
 
@@ -61,9 +61,6 @@ Here are a few highlights from my work:
 
 - 🔗 [**Expense Tracker (PyQt5 + SQLite)**](https://github.com/salimhabeshawi/SHANZ-Expenses)  
    *A simple and modern expense tracking desktop app with elegant design and Database (PySide6)*
-
-- 🔗 [**Mni Projects**](https://github.com/salimhabeshawi/Mini-Projects)  
-   *Some mini-projects including an Airline Reservation System (C++ & File Handling) Console-based airline booking system with seat management, search, and cancellation.*  
 
 ➡️ Check out more in my [repositories](https://github.com/salimhabeshawi?tab=repositories).  
 
