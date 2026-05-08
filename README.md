@@ -1,25 +1,17 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=SALIM%20AHMED&section=header&reversal=false&textBg=false&fontSize=100&animation=twinkling&desc=Python%20|%20PHP&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=SALIM%20AHMED&section=header&reversal=false&textBg=false&fontSize=100&animation=blinking&desc=Python%20|%20PHP&descAlignY=75" />
 </div>
 
----
-
 <!-- About Me -->
-### 👨‍💻 About Me  
+### About Me
+
 I’m currently attending my study for a **Software Engineering** degree at **Addis Ababa Science and Technology University**. I graduated from the **ALX SE Back-end Program**.
-I started my software engineering journey because I wanted to **build systems that people can actually use**.  
-
-💡 I’m passionate about:
-- **Backend Engineering** – Designing robust and scalable systems.  
-- **Cutting-edge technologies** – Django, Django Rest Framework (DRF), FastAPI, Laravel, PostgreSQL, React, Next.js.
-- **Team Leadership** – My goal is to become a **Senior Backend Engineer** who can manage, mentor, and lead high-performing teams.
-
----
+I started my software engineering journey because I wanted to **build systems that people can actually use**.
 
 <!-- Tech Stack -->
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -45,10 +37,8 @@ I started my software engineering journey because I wanted to **build systems th
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
 <!-- Projects -->
-### 🚀 Featured Projects  
+### Featured Projects  
 
 Here are a few highlights from my work:
 
@@ -61,21 +51,17 @@ Here are a few highlights from my work:
 - 🔗 [**Expense Tracker (PyQt5 + SQLite)**](https://github.com/salimhabeshawi/SHANZ-Expenses)  
    *A simple and modern expense tracking desktop app with elegant design and Database (PySide6)*
 
-➡️ Check out more in my [repositories](https://github.com/salimhabeshawi?tab=repositories).  
-
----
+> Check out more in my [repositories](https://github.com/salimhabeshawi?tab=repositories).  
 
 <!-- GitHub Stats -->
-### 📊 GitHub Analytics  
+### GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salimhabeshawi&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
----
-
 <!-- Connect -->
-### 🤝 Connect with Me  
+### Connect with Me  
 
 <p align="center">
   <a href="mailto:salimhabeshawi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
